@@ -32,7 +32,8 @@ Simulation code (MATLAB)
 <br />
 
 Computational algebra control file
-- pcc_mutation_control_file_public -- use with (https://www.unimelb-macaulay2.cloud.edu.au/)
+- pcc_mutation_node_control_public -- use with (https://www.unimelb-macaulay2.cloud.edu.au/)
+- pcc_mutation_edge_control -- use with (https://www.unimelb-macaulay2.cloud.edu.au/)
   - instructions commented throughout code
 
 
