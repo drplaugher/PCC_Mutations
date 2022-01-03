@@ -37,7 +37,7 @@ F = load('comb_pcc_tt.txt'); % truth table function
 % F4 = TruthTable_del_n_temp(F,nv,varF,p, 44,0); % regulates SMADp
 
 % --- Node control ~ PI3K(42), PIP3(46), RAF(47), BAX(61),
-% F5 = TruthTable_del_n_temp(F3,nv,varF,p, 46,0); % regulates 
+% F5 = TruthTable_del_n_temp(F4,nv,varF,p, 46,0); % regulates 
 % F6 = TruthTable_del_n_temp(F5,nv,varF,p, 47,0); % regulates 
 % F7 = TruthTable_del_n_temp(F6,nv,varF,p, 29,0); % regulates ERKS
 % F8 = TruthTable_del_n_temp(F7,nv,varF,p, 18,0); % regulates PI3K
@@ -75,7 +75,7 @@ xlabel('Time Steps')
 ylabel('Average Frequencies')
 
 
-%% k means practice
+%% k means  - used to confirm statistical analysis
 clear
 clc
 close
