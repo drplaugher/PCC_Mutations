@@ -12,6 +12,10 @@ tic
 % Formal Modeling and Analysis of Pancreatic Cancer Microenvironment
 % - Qinsi Wang et al
 
+%% Add pathways to "MatlabToolBoxes" folders
+% addpath('/Users ... /SDDS');
+% addpath('/Users ... /BNPBN/');
+% addpath('/Users/... /BNPBN/BNPBN/BNPBN');
 
 
 % Number of inputs
