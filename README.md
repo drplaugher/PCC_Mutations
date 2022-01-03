@@ -36,7 +36,10 @@ Computational algebra control file
 - pcc_mutation_edge_control -- use with (https://www.unimelb-macaulay2.cloud.edu.au/)
   - instructions commented throughout code
 
+<br />
 
+Lastly, we have included a *How-To* file that details how to find and simulate controls
+- How-To
 
 
 [^1]: Cite paper here
