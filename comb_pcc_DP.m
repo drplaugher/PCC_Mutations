@@ -76,11 +76,6 @@ ylabel('Average Frequencies')
 
 
 %% k means  - used to confirm statistical analysis
-clear
-clc
-close
-
-
 
 % X= [0    4255.925;
 % 1    2223.360;
