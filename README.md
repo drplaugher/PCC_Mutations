@@ -42,4 +42,4 @@ Lastly, we have included a *How-To* file that details how to find and simulate c
 - How-To
 
 
-[^1]: Cite paper here
+[^1]:  Uncovering Potential Interventions for Pancreatic Cancer Patients via Mathematical Modeling. Daniel Plaugher, Boris Aguilar, and David Murrugarra. [*Under Review*] https://www.biorxiv.org/content/10.1101/2022.01.11.475711v1 
