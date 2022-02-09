@@ -41,5 +41,9 @@ Computational algebra control file
 Lastly, we have included a *How-To* file that details how to find and simulate controls
 - How-To
 
+<br />
+
+NOTICE: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 [^1]:  Uncovering Potential Interventions for Pancreatic Cancer Patients via Mathematical Modeling. Daniel Plaugher, Boris Aguilar, and David Murrugarra. [*Under Review*] https://www.biorxiv.org/content/10.1101/2022.01.11.475711v1 
