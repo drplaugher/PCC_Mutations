@@ -46,4 +46,4 @@ Lastly, we have included a *How-To* file that details how to find and simulate c
 NOTICE: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-[^1]:  Uncovering Potential Interventions for Pancreatic Cancer Patients via Mathematical Modeling. Daniel Plaugher, Boris Aguilar, and David Murrugarra. [*Under Review*] https://www.biorxiv.org/content/10.1101/2022.01.11.475711v1 
+[^1]:  Uncovering potential interventions for pancreatic cancer patients via mathematical modeling. Daniel Plaugher, Boris Aguilar, David Murrugarra. *Journal of Theoretical Biology*, accepted, 2022. https://authors.elsevier.com/c/1fJ4457imC48X
