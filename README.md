@@ -1,6 +1,6 @@
 # PCC_Mutations
 
-Attached in this repository are the codes and data used in our publication *Uncovering potential interventions for pancreatic cancer patients via mathematical modeling*[^1]. Specifically, you will find:
+Attached in this repository are the codes and data used in our publication *Uncovering potential interventions for pancreatic cancer patients via mathematical modeling*[^1][^2]. Specifically, you will find:
 
 TCGA pancreatic cancer data: 
 - expressions -- gene expression data
@@ -38,7 +38,7 @@ Computational algebra control file
 
 <br />
 
-Lastly, we have included a *How-To* file that details how to find and simulate controls
+We have included a *How-To* file that details how to find and simulate controls
 - How-To
 
 <br />
@@ -47,3 +47,4 @@ NOTICE: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 
 
 [^1]:  Uncovering potential interventions for pancreatic cancer patients via mathematical modeling. Daniel Plaugher, Boris Aguilar, David Murrugarra. *Journal of Theoretical Biology*, accepted, 2022. https://authors.elsevier.com/c/1fJ4457imC48X
+[^2]: Coming soon!
